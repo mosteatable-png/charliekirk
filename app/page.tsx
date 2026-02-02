@@ -10,8 +10,7 @@ export default function Home() {
         bio="CammyAPP, table (ily) , Rizuejr, Nala, tie, renuled, Ella, Koda, Leo, vpn and 77"
         isVerified={true}
         isOwner={false}
-          {
-       more={[
+        more={[
           {
             id: "1",
             title: "day 1's",
